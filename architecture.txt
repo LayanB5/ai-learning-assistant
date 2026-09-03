@@ -1,0 +1,24 @@
+AI Learning Assistant — Architecture
+
+Course Knowledge Base
+        |
+        v
+Data Quality Checks
+        |
+        v
+Chunking
+        |
+        v
+Sentence Transformer Embeddings
+        |
+        v
+ChromaDB Vector Database
+        |
+        v
+Semantic Search / Top-k Retrieval
+        |
+        v
+Grounded RAG-style Answer
+
+Main concepts demonstrated:
+Data Quality + Embeddings + Vector DB + Semantic Retrieval + RAG + Architecture Integration
