@@ -64,4 +64,4 @@ What is RAG?
 ```
 
 ## Course
-This project was developed for the **Modern Data Engineering for AI Systems** course provided by **SDAIA Academy**.
+This project was made for **"Modern Data Engineering for AI Systems"** course provided by [SDAIA Academy](https://github.com/SDAIAAcademy).
